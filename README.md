@@ -15,3 +15,5 @@ Note for a PoC
 
 - https://github.com/w3c/webauthn/issues/954
 - https://github.com/kryptco/kr-u2f
+
+- https://github.com/herrjemand/awesome-webauthn
