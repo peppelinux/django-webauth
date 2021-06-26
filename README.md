@@ -13,3 +13,5 @@ Note for a PoC
 - https://webauthn.me/browser-support
 - https://caniuse.com/?search=webauthn
 
+- https://github.com/w3c/webauthn/issues/954
+- https://github.com/kryptco/kr-u2f
